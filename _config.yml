@@ -1,4 +1,4 @@
-title: Venkat Docs
-description: A Documentation Website
-theme: null
-markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
