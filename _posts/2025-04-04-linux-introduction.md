@@ -1,7 +1,7 @@
 ---
 title: "Linux Introduction"
 layout: post
-permalink: /categories/linux/
+permalink: /posts/linux/
 categories: [Linux]
 ---
 This is Linux Introduction
