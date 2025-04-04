@@ -1,7 +1,7 @@
 ---
 title: "Linux"
-layout: category
+layout: post
 permalink: /categories/linux/
-category: "linux"
+categories: [Linux]
 ---
 This is Linux Introduction
