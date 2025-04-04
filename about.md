@@ -5,4 +5,4 @@ title: About
 
 # About Me
 
-I am a DevOps Engineer sharing my learning and documentation here.
+This is the about page.

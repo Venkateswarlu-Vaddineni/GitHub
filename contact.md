@@ -3,6 +3,6 @@ layout: default
 title: Contact
 ---
 
-# Contact
+# Contact Me
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+Email: contact@venkat.cloud
