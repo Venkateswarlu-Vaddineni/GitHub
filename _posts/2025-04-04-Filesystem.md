@@ -1,7 +1,7 @@
 ---
 title: "Linux File System"
 layout: post
-permalink: /categories/linux/
+permalink: /posts/linux/
 categories: [Linux]
 ---
 Linux File System
