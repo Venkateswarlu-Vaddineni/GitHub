@@ -5,6 +5,7 @@ Here you can find the documentation, architecture of the Project that we host on
 **Git Basics**
 
 **Introduction to Git**
+
 **Git is a distributed version control system (VCS)** used for tracking changes in source code during software development. It allows multiple developers to work on a project simultaneously without interfering with each other's work.
 
 Created by Linus Torvalds in 2005, Git is designed to be fast, efficient, and reliable. It supports non-linear development workflows, making it ideal for both small and large projects.
