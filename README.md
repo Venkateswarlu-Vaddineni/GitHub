@@ -3,6 +3,7 @@ Welcome to Venkat Cloud Documentation
 Here you can find the documentation, architecture of the Project that we host on Venkat.cloud
 
 **Git Basics**
+
 **Introduction to Git**
 **Git is a distributed version control system (VCS)** used for tracking changes in source code during software development. It allows multiple developers to work on a project simultaneously without interfering with each other's work.
 
