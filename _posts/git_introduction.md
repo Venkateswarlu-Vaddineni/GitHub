@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Introduction to Git: Version Control Basics"
-date: 2025-04-04
-categories: git tutorial
+categories: git tutorials
 ---
 
 ## What is Git?
@@ -20,6 +19,7 @@ Git is a **distributed version control system** that helps developers track chan
 Before using Git, configure your name and email:
 
 git config --global user.name "Your Name"
+
 git config --global user.email "your.email@example.com"
 
 ### 2️⃣ **Initialize a Git Repository**
