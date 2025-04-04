@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Introduction to Git: Version Control Basics"
-categories: git tutorials
+title: "Introduction to Git"
+date: 2025-04-04
+categories: git tutorial
+show_date: false
 ---
 
 ## What is Git?
