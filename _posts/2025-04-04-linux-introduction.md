@@ -1,5 +1,5 @@
 ---
-title: "Linux"
+title: "Linux Introduction"
 layout: post
 permalink: /categories/linux/
 categories: [Linux]
